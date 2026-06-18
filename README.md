@@ -11,7 +11,7 @@
 - 💻 Strong interest in solving real-world problems through technology
 
 ## 🛠️ Tech Stack
-Python • Java • JavaScript • SQL • C
+Python • JavaScript • SQL • C
 
 React • MongoDB  • Git • GitHub
 
