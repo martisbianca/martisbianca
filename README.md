@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Bianca Gelesia Martis 👋
 
-<!--
-**martisbianca/martisbianca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Science and Engineering Student at NMAM Institute of Technology, Nitte
 
-Here are some ideas to get you started:
+💡 Passionate about Artificial Intelligence, Machine Learning, and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Working on AI/ML and Full-Stack Development projects
+- 🌱 Exploring Deep Learning, Generative AI, and Cloud Technologies
+- 📚 Research experience in Speech Recognition and Energy-Efficient AI
+- 💻 Strong interest in solving real-world problems through technology
+
+## 🛠️ Tech Stack
+Python • Java • JavaScript • SQL • C
+
+React • MongoDB  • Git • GitHub
+
+## 📫 Connect With Me
+- 📧 Email: martisbianca6@gmail.com
+- 🐙 GitHub: https://github.com/martisbianca
+- 💼 LinkedIn: https://www.linkedin.com/in/bianca-gelesia-martis-26051024b/
+
+⭐ Open to Software Engineering, AI/ML, and Research Opportunities
